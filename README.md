@@ -3,8 +3,8 @@
 ## Setup Instructions
 
 ### Prerequisites
-- Visual Studio Code
-- Python 3
+- Download Visual Studio Code : [https://code.visualstudio.com/Download]
+- Download Python 3 : [https://www.python.org/downloads/]
 
 ### Step-by-Step Setup
 
@@ -32,8 +32,7 @@
 
 ## Project Description
 
-This project implements encryption and decryption functionalities in Python. The program allows users to encrypt and decrypt text using various algorithms.
-
+This project provides an engaging way to practice coding by building a game where players guess letters to form a hidden word before running out of attempts.
 
 ###
 
